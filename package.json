@@ -1,0 +1,22 @@
+{
+  "name": "ramona",
+  "version": "1.0.0",
+  "description": "try",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonab/tryTdT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonab/tryTdT/issues"
+  },
+  "homepage": "https://github.com/ramonab/tryTdT#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
